@@ -29,9 +29,9 @@ const customersData = [
   {
     name: 'Suzanne Murphy',
     transactions: [
-      { date: '2022-01-15', amount: 180 },
-      { date: '2022-02-11', amount: 160 },
-      { date: '2022-03-27', amount: 190 },
+      { date: '2022-01-22', amount: 60 },
+      { date: '2022-02-14', amount: 30 },
+      { date: '2022-03-02', amount: 80 },
     ],
   },
 ];
